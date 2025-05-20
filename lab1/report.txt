@@ -1,0 +1,5 @@
+1. The program from part 2 is supposed to have the user input the length of two sides of a right triangle, and will output the hypotenuse of that triangle. 
+
+2. The program prompts two questions where it takes the user's input as a double, and then stores those doubles as variables. Then, the value of those variables are squared and added together, and then the square root is taken and stored as a new double. That double is then printed out, saying that their hypotenuse is the value of the variable.
+
+3. I verified that this produces correct results by throwing in all sorts of numbers, including decimals and using a calculator to figure out whether or not the program works accurately. The only time that it doesn't work correctly is if the user inputs two negative numbers, then the resulting hypotenuse is positive where if it were a vector it would probably be negative but that is too complicated and doesn't make sense for this type of calculator so I think we can probably ignore that.    
